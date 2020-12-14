@@ -1,3 +1,9 @@
+################################
+#                              #
+#  Made By trvst.#2500 | lmfao #
+#                              #
+################################
+
 import random, string
 from colorama import Fore as Color
 from colorama import Fore, Back, Style
